@@ -128,3 +128,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 audio
+wav_16khz_audio
