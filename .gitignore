@@ -129,3 +129,6 @@ dmypy.json
 .pyre/
 audio
 wav_16khz_audio
+.idea
+.Ds_Store
+
